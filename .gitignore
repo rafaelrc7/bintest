@@ -2,4 +2,6 @@
 !.gitignore
 !Makefile
 !src/
+!LICENSE
+!README.md
 
